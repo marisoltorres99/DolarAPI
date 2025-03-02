@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\resource\\dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:resource\\dolarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|c:\\users\\j99wi\\source\\repos\\exampleapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA39218-C1CC-4E40-B678-9621DFDBD4F5}|exampleAPI.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DolarAPI.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Resource\\DolarAPI.cs",
+              "RelativeDocumentMoniker": "Resource\\DolarAPI.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Resource\\DolarAPI.cs",
+              "RelativeToolTip": "Resource\\DolarAPI.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:44:49.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:32:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Model\\Currency.cs",
+              "RelativeDocumentMoniker": "Model\\Currency.cs",
+              "ToolTip": "C:\\Users\\j99wi\\source\\repos\\exampleAPI\\Model\\Currency.cs",
+              "RelativeToolTip": "Model\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:54:13.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
