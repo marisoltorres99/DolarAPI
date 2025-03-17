@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\controllers\\dolarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:controllers\\dolarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\services\\dolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:services\\dolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\services\\idolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:services\\idolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\services\\dolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:services\\dolarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\controllers\\dolarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:controllers\\dolarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\models\\cotizaciondolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|c:\\users\\j99wi\\reposgithub\\dolarapi\\dolarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DD9B77-B2EA-40B3-A43A-B34A3413E4D8}|DolarAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-15T23:04:44.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DolarController.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Controllers\\DolarController.cs",
               "RelativeDocumentMoniker": "Controllers\\DolarController.cs",
               "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Controllers\\DolarController.cs",
               "RelativeToolTip": "Controllers\\DolarController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwCQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T22:49:58.795Z",
               "EditorCaption": ""
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DolarService.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Services\\DolarService.cs",
               "RelativeDocumentMoniker": "Services\\DolarService.cs",
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CotizacionDolar.cs",
               "DocumentMoniker": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Models\\CotizacionDolar.cs",
               "RelativeDocumentMoniker": "Models\\CotizacionDolar.cs",
               "ToolTip": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\Models\\CotizacionDolar.cs",
               "RelativeToolTip": "Models\\CotizacionDolar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T22:54:09.454Z",
               "EditorCaption": ""

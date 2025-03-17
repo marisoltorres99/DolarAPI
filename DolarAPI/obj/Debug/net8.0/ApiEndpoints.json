@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "DolarAPI.Controllers.DolarController",
-    "Method": "ConvertirADolares",
+    "Method": "ConvertirAPesos",
     "RelativePath": "api/Dolar/{tipo}/{cantidad}",
     "HttpMethod": "GET",
     "IsController": true,

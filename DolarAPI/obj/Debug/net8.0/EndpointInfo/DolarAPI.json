@@ -101,7 +101,7 @@
       "CotizacionDolar": {
         "type": "object",
         "properties": {
-          "moneda": {
+          "nombre": {
             "type": "string",
             "nullable": true
           },
