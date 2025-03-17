@@ -1,8 +1,10 @@
 # DolarAPI
 Una API desarrollada con .NET Core que permite consultar las cotizaciones de diferentes tipos de dólares en Argentina y realizar conversiones entre dólares y pesos argentinos.
+
 Descripción
 
 Este proyecto es una API que permite consultar la cotización del dólar en diferentes tipos, como el dólar blue y el dólar oficial, a través de un servicio externo. Además, ofrece un endpoint para convertir una cantidad en dólares a su equivalente en pesos argentinos, utilizando la cotización de la venta.
+
 Características
 
     Consulta de cotización: Permite consultar la cotización de los tipos de dólar más comunes (blue, oficial).
