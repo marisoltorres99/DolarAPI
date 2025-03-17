@@ -17,6 +17,7 @@ Endpoints
 1. Obtener cotización de un tipo de dólar
 
 URL: /api/dolar/{tipo}
+
 Método: GET
 
 Descripción:
@@ -35,16 +36,19 @@ Respuesta exitosa (200 OK):
     "compra": 1220,
     "venta": 1240
 }
+
 Respuesta de error (404 Not Found):
 {
     "mensaje": "Tipo de dólar no encontrado"
 }
+
 2. Convertir dólares a pesos
 
 URL: /api/dolar/convertirapesos/{tipo}/{cantidad}
 Método: GET
 
 Descripción:
+
 Este endpoint convierte una cantidad de dólares a pesos, usando la cotización de venta correspondiente al tipo de dólar proporcionado.
 
 Parámetros:
@@ -54,6 +58,7 @@ Parámetros:
     cantidad (decimal): La cantidad de dólares a convertir.
 
 Ejemplo de solicitud:
+
 GET /api/dolar/convertirapesos/blue/100
 
 Respuesta exitosa (200 OK):
