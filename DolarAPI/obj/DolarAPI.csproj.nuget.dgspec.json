@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\j99wi\\source\\repos\\DolarAPI\\DolarAPI.csproj": {}
+    "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\DolarAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\j99wi\\source\\repos\\DolarAPI\\DolarAPI.csproj": {
+    "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\DolarAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\j99wi\\source\\repos\\DolarAPI\\DolarAPI.csproj",
+        "projectUniqueName": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\DolarAPI.csproj",
         "projectName": "DolarAPI",
-        "projectPath": "C:\\Users\\j99wi\\source\\repos\\DolarAPI\\DolarAPI.csproj",
+        "projectPath": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\DolarAPI.csproj",
         "packagesPath": "C:\\Users\\j99wi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\j99wi\\source\\repos\\DolarAPI\\obj\\",
+        "outputPath": "C:\\Users\\j99wi\\reposGitHub\\DolarAPI\\DolarAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
